@@ -1,4 +1,4 @@
-// @desc Log requests to console
+// @desc Custom log requests to console
 
 const logger = (req, res, next) => {
   console.log(
